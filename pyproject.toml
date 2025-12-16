@@ -1,0 +1,7 @@
+[project]
+name = "gzip-nii"
+version = "0.1.0"
+dependencies = [
+    "nibabel>=5.3.3",
+    "numpy>=2.3.5",
+]
